@@ -16,3 +16,7 @@ if alive == 1:
 else:
   life.die()
 ```
+- [x] Game
+- [x] Eat
+- [x] Sleep
+- [ ] Repeat
